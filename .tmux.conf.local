@@ -292,7 +292,3 @@ set -g mode-keys vi
 
 # move status line to top
 set -g status-position top
-<<<<<<< HEAD
-=======
-
->>>>>>> e90d76b598cb470d4ea1031bbac8f30926e89027
