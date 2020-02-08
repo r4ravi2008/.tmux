@@ -1,0 +1,6 @@
+[submodule "plugins/tmux-continuum"]
+	path = plugins/tmux-continuum
+	url = https://git::@github.com/tmux-plugins/tmux-continuum
+[submodule "plugins/vim-tmux-navigator"]
+	path = plugins/vim-tmux-navigator
+	url = https://git::@github.com/christoomey/vim-tmux-navigator
